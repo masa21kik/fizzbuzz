@@ -1,3 +1,3 @@
 # -*- mode: ruby; coding: utf-8 -*-
 
-VERSION = '0.1'
+VERSION = '0.2'
