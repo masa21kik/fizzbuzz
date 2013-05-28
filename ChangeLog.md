@@ -1,3 +1,7 @@
+Release 0.4 - 2013/05/28
+
+* Add code climate badge
+
 Release 0.3 - 2013/05/28
 
 * Add code coverage measurement
